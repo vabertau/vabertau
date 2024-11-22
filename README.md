@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Valentin</h1>
-<h3 align="center">ESSEC x 42 x Entrepreneur</h3>
+<h3 align="center">ESSEC x 42</h3>
 
 | Project link | Description |  Languages/Techs |
   | :- | :-: | :-: |
